@@ -1,0 +1,1012 @@
+{
+  "w11": [
+    {
+      "id": "http://www.youtube.com/watch?v=19E65tOn3tI",
+      "title": "Himesh Reshammiya - Aashiq Banaya",
+      "station": "TAPE A"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=vnlk8V-q0oU",
+      "title": "Himesh Reshammiya - Jhalak Dikhla Ja",
+      "station": "TAPE A"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=ZFZMPjMbvtU",
+      "title": "Udit Narayan - Tu Cheez Badi Hai",
+      "station": "TAPE A"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=92ydUdqWE1g",
+      "title": "Daler Mehndi - Tunak Tunak Tun",
+      "station": "TAPE A"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=gNN7hyUi0To",
+      "title": "Anu Malik - Oonchi Hai Building",
+      "station": "TAPE A"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=-99Z8E1pOrs",
+      "title": "Sukhbir - Ishq Tera Tadpave",
+      "station": "TAPE A"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=idNyQkZU2VA",
+      "title": "Himesh Reshammiya - Tera Suroor",
+      "station": "TAPE A"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=tj9ARZlSj6g",
+      "title": "Bally Sagoo - Gur Nalo Ishq",
+      "station": "TAPE A"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=Pxsd0cOCf00",
+      "title": "Sukhwinder Singh - Chaiyya Chaiyya",
+      "station": "TAPE A"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=ZUdJQSUcK_Y",
+      "title": "Bappi Lahiri - Jimmy Jimmy",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=uDkPqtj80Rs",
+      "title": "Altaf Raja - Tum To Thehre Pardesi",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ezCfd3lQxSM",
+      "title": "Sonu Nigam - Achha Sila Diya",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=rU3XeqS0QBg",
+      "title": "Kumar Sanu - Jeeta Tha Jiske Liye",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=y7S8y18NqH4",
+      "title": "Kumar Sanu - Dil Deewana",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=S0T-6zWbHkU",
+      "title": "Mukesh - Kabhi Kabhi Mere Dil Mein",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=lsgV-mvoGA4",
+      "title": "Udit Narayan - Pardesi Pardesi",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=xaoxkLDFgUY",
+      "title": "Kumar Sanu - Mera Dil Bhi Kitna",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=BhoHLNRhZNs",
+      "title": "Altaf Raja - Awara Hawa Ka Jhonka",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=VsYmuAIxqmA",
+      "title": "Udit Narayan - Tere Naam",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=OwKjQt9QzYM",
+      "title": "Pankaj Udhas - Chitti Aayi Hai",
+      "station": "TAPE B"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=NgEQL8UOAG4",
+      "title": "Strings - Duur",
+      "station": "FM 100"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=P85sXtTsLQ0",
+      "title": "Faakhir - Mahi Ve",
+      "station": "FM 100"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=16e262jslG0",
+      "title": "Ali Haider - Purani Jeans",
+      "station": "FM 100"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=q2bIHdeMWp8",
+      "title": "Hadiqa Kiani - Boohey Barian",
+      "station": "FM 100"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=XFxJsjbJPm0",
+      "title": "Najam Sheraz - In Se Nain",
+      "station": "FM 100"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=Xt3RibkI6Z4",
+      "title": "Haroon - Mehbooba",
+      "station": "FM 100"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=mkkNE8y2eJc",
+      "title": "Sajjad Ali - Babiya",
+      "station": "FM 100"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=xaA85R0CveM",
+      "title": "Fuzon - Aankhon Ke Sagar",
+      "station": "FM 100"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=kNV1LLCPbRs",
+      "title": "Shehzad Roy - Teri Soorat",
+      "station": "FM 100"
+    },
+    {
+      "id": "http://www.youtube.com/watch?v=n7F1U6lP2NY",
+      "title": "Strings - Dhaani",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=A6ZFFH7kzqU",
+      "title": "Junoon - Sayonee",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Uf5r-qOO-bQ",
+      "title": "Awaz - Mr. Fraudiye",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ZrPbODIVZ4M",
+      "title": "Vital Signs - Dil Dil Pakistan",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=17X21V0Wf24",
+      "title": "Noori - Suno Ke Main Hun",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=x7nS0t9eG2E",
+      "title": "EP - Hamesha",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Kk6y_x1Y4_M",
+      "title": "Aaroh - Na Kaho",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=u96k8q3I9OY",
+      "title": "Ali Azmat - Na Re Na",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=2vT6_Yt8lGk",
+      "title": "Karavan - Dekhade Kahan",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=9o0xQ3qVlSI",
+      "title": "Jal - Aadat",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=TsEd5KvyA4g",
+      "title": "Call - Pukaar",
+      "station": "FM 89"
+    }
+  ],
+  "gt-road": [
+    {
+      "id": "https://www.youtube.com/watch?v=fSf2V-z-YTA",
+      "title": "Attaullah - Kameez Teri Kaali",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=F3zWvGf41nQ",
+      "title": "Attaullah - Qameez Teri Kaali (Remix)",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=7e3prtDQXa4",
+      "title": "Attaullah - Pyar Naal",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=kYJmQk6Z5kU",
+      "title": "Attaullah - Ni Othe Amlan De",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=wHJ5VJGZ3Kw",
+      "title": "Arif Lohar - Jugni",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=xNbVBVTkTVg",
+      "title": "Shaukat Ali - Kadi Te Has Bol",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/playlist?list=PLj9bpTE8cKfaIX7l84Kdhm_GguZdYqXUG",
+      "title": "Akram Rahi - Sad Songs",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=48M34z7XQ9U",
+      "title": "Naseebo Lal - Jine Tukre",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=kS6cR7Z6R7w",
+      "title": "Mansoor Malangi - Ek Phul Motiye",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=zR6aU9Pj32Y",
+      "title": "Arif Lohar - Alif Allah",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=IBnz_IQUGpM",
+      "title": "Attaullah - Idhar Zindagi Ka",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=qh5XMA9JffI",
+      "title": "Attaullah - Ashqon Ke Leke Dhare",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=FjS6oQ8qE8k",
+      "title": "Attaullah - Dil Tod Ke Hasti Ho",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=BHbMl06-dXI",
+      "title": "Attaullah - Bedardi Se Pyar Ka",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=luLOrUXnM2I",
+      "title": "Attaullah - Mujhko Yeh Teri Bewafai",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=x7d7Orruu_4",
+      "title": "Attaullah - Ishq Main Hum",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=sjTTgino_Uc",
+      "title": "Attaullah - Wafa Na Raas Aayee",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ZfR6Qk5mO4c",
+      "title": "Mansoor Malangi - Bismillah Karan",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=jU0M_J0oDk8",
+      "title": "Akram Rahi - Dard",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=QKVEwfYXxl0",
+      "title": "Tufail Niazi - Mein Nai Jana",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=UIPXHsUXVH0",
+      "title": "NFAK - Yeh Jo Halka Halka",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=q4NVp-aFZSw",
+      "title": "NFAK - Tumhein Dillagi",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=gY01irEl8Eo",
+      "title": "NFAK - Mere Rashke Qamar",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=L5bD5pGhk6E",
+      "title": "NFAK - Kinna Sohna Tainu",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=oQ7UYptPRQs",
+      "title": "NFAK - Sanu Ek Pal Chain",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=2F7G9bOIwlk",
+      "title": "NFAK - Afreen Afreen",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=lrkaKvhRnEI",
+      "title": "Rahat Fateh Ali - Mann Ki Lagan",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ROY3kK8GldE",
+      "title": "Rahat Fateh Ali - Jiya Dhadak",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=qoqlJGOQtuQ",
+      "title": "NFAK - Mera Piya Ghar Aaya",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=R_sziMhbftE",
+      "title": "NFAK - Ali Maula Ali",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=3vE5jcb4voY",
+      "title": "Abrar ul Haq - Billo",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=DscFGbLWbms",
+      "title": "Jawad Ahmad - Ucchayan",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=l6BaGq9QUdE",
+      "title": "Abrar ul Haq - Majajni",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ivNSixKbpzg",
+      "title": "Jawad Ahmad - Dholna",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Fp1Ea6LcMwk",
+      "title": "Malkoo - Nak Da Koka",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=4l2fl5WqSks",
+      "title": "Shazia Manzoor - Batiyan",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=lFpZOcry_Wg",
+      "title": "Abrar ul Haq - Preeto",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Y_0gk4DH1mc",
+      "title": "Fariha Pervez - Patang Baaz",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=8eTXZW7tt8Q",
+      "title": "Jawad Ahmad - Bin Tere",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=NkiUxI4NKys",
+      "title": "Abrar ul Haq - Sanu Tere Naal",
+      "station": "FM 89"
+    }
+  ],
+  "karakoram": [
+    {
+      "id": "https://www.youtube.com/watch?v=F384FwY5wEA",
+      "title": "Zeek Afridi - Bibi Shirini",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Z_5q5vJc8iQ",
+      "title": "Rahim Shah - Pehle Toh Kabhi",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=P_M6kP8r2Zc",
+      "title": "Humayun Khan - Laili Laili",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=S3Qk0wM0h_8",
+      "title": "Zeek Afridi - Za Pukhtoon",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=2TzT4_y_5R8",
+      "title": "Rahim Shah - Jhoola",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=lUuR9l6m7A4",
+      "title": "Haroon - Dil Se",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=wX2g8iU6mR0",
+      "title": "Zeek Afridi - Mong",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=93P0eYkO22w",
+      "title": "Humayun Khan - Folk Hits",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Yp94pBv07_8",
+      "title": "Rahim Shah - Channa",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=3n-2E3t1_Yk",
+      "title": "Haroon - Mehndi",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=5Vz5Y_b1CgA",
+      "title": "Sardar Ali Takkar - Ghani Poetry",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=yW63P69H9mY",
+      "title": "Classic Rabab - Khyber Pass",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=3j0u0d0d_5k",
+      "title": "Zarsanga - Da Bangriwal",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=H7B5944dZf4",
+      "title": "Sardar Ali Takkar - Tapay",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=2Tz8bK7Vb_o",
+      "title": "Zarsanga - Ro Ro Kida",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=R5u2w8z7Y34",
+      "title": "Classic Rabab - Swat Solo",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=8V43Xv9165Q",
+      "title": "Sardar Takkar - Sad Ghazal",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=F3zWvGf41nQ",
+      "title": "Zarsanga - Traditional",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Z5X5k8l-Txg",
+      "title": "Khumariyaan (Early) - Sheen",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=kYJmQk6Z5kU",
+      "title": "Classic Rabab - Instrumental",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=FjS6oQ8qE8k",
+      "title": "Nashenas - Afghan Folk Hits",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=R9K0cRj2b00",
+      "title": "Haroon - Jiya Jaye",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=48M34z7XQ9U",
+      "title": "Nashenas - Pashto Ghazal",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=F_f0i5bM_-4",
+      "title": "Rahim Shah - Ghoom Tana",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=b0n-N8_6ZfA",
+      "title": "Hadiqa Kiani - Jaan-e-Jaan",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=kS6cR7Z6R7w",
+      "title": "Nashenas - Classic Medley",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=p4vW7G3-7M4",
+      "title": "Zohaib Hassan - Dheere Dheere",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=zR6aU9Pj32Y",
+      "title": "Rahim Shah - Ishq",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=vVj4x8zM8O4",
+      "title": "Haroon - Yara",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ZfR6Qk5mO4c",
+      "title": "Nashenas - Pashto Love",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=9g0ZJif0oYc",
+      "title": "Zeb & Haniya - Paimana",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=0hO8jG3R4H0",
+      "title": "Sajid & Zeeshan - King of Self",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=n9H2U_5qQ-A",
+      "title": "Zeb & Haniya - Chup",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=O1hR5A_rO3Y",
+      "title": "Strings - Mera Bichra Yaar",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=M5L_s5G5gM4",
+      "title": "Mekaal Hasan Band - Jhok",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=7hY74eN184A",
+      "title": "Zeb & Haniya - Rona Chor",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Y4G_hCqA-3w",
+      "title": "Noori - Manwa Re",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=R9K0cRj2b00",
+      "title": "EP - Waqt",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=U0rTf1c8sU4",
+      "title": "Aaroh - Raag Neela",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=H6S_n34_eXg",
+      "title": "Sajid & Zeeshan - Freeway",
+      "station": "FM 89"
+    }
+  ],
+  "makran": [
+    {
+      "id": "https://www.youtube.com/watch?v=F3zWvGf41nQ",
+      "title": "Akhtar Chanal - Dana Pe Dana",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=kYJmQk6Z5kU",
+      "title": "Rostam Mirlashari - Laila",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=jU0M_J0oDk8",
+      "title": "Old Balochi Wedding Song",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=wX2g8iU6mR0",
+      "title": "Rostam Mirlashari - Mashup",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=93P0eYkO22w",
+      "title": "Akhtar Chanal - Dastan",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Yp94pBv07_8",
+      "title": "Traditional Balochi Chaap",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=yW63P69H9mY",
+      "title": "Rostam - Sabz Sabz",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=H7B5944dZf4",
+      "title": "Akhtar - Chappar",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=2Tz8bK7Vb_o",
+      "title": "Rostam - Laili Jan",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=R5u2w8z7Y34",
+      "title": "Traditional Pop Mix",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=8V43Xv9165Q",
+      "title": "Traditional Leva Beat",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=F3zWvGf41nQ",
+      "title": "Arif Baloch - Folk Classic",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=kYJmQk6Z5kU",
+      "title": "Traditional - Sorouz",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=FjS6oQ8qE8k",
+      "title": "Arif Baloch - Dambora",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=48M34z7XQ9U",
+      "title": "Traditional - Benju",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=kS6cR7Z6R7w",
+      "title": "Akhtar Chanal - Afghan",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=zR6aU9Pj32Y",
+      "title": "Arif Baloch - Sad Folk",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ZfR6Qk5mO4c",
+      "title": "Traditional - Flute",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=jU0M_J0oDk8",
+      "title": "Arif - Classic",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=wX2g8iU6mR0",
+      "title": "Traditional - Makran Beat",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=FjS6oQ8qE8k",
+      "title": "Googoosh (Iranian) - Talagh",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=48M34z7XQ9U",
+      "title": "Googoosh - Hejrat",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=kS6cR7Z6R7w",
+      "title": "Mai Dhai - Aankharli",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=93P0eYkO22w",
+      "title": "Sounds of Kolachi (Early)",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Yp94pBv07_8",
+      "title": "Classic Iranian Border Radio",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=zR6aU9Pj32Y",
+      "title": "Mai Dhai - Sarak",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=j3v7f18lBqw",
+      "title": "Googoosh - Pol",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=yW63P69H9mY",
+      "title": "Classic Balochi Ghazal",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=H7B5944dZf4",
+      "title": "Iranian Folk Instrumental",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=n5JpBf23c9E",
+      "title": "Googoosh - Makhloogh",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ZfR6Qk5mO4c",
+      "title": "Ali Zafar - Channo",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=jU0M_J0oDk8",
+      "title": "Faakhir - Deewana",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=wX2g8iU6mR0",
+      "title": "Ali Haider - Zalim Nazron",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=93P0eYkO22w",
+      "title": "Najam Sheraz - Sona Chahti",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Yp94pBv07_8",
+      "title": "Hadiqa Kiani - Dupatta",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=yW63P69H9mY",
+      "title": "Strings - Sar Kiye",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=H7B5944dZf4",
+      "title": "Awaz - Jadoo Ka Chiragh",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=2Tz8bK7Vb_o",
+      "title": "Vital Signs - Sanwali Saloni",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=R5u2w8z7Y34",
+      "title": "Shahzad Roy - Saali",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=8V43Xv9165Q",
+      "title": "Ali Zafar - Huqa Pani",
+      "station": "FM 89"
+    }
+  ],
+  "sehwan": [
+    {
+      "id": "https://www.youtube.com/watch?v=1F_4-tL8_6U",
+      "title": "Abida Parveen - Ho Jamalo",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=O129z81nO_U",
+      "title": "Allan Faqir & Muhammad Ali - Tere Ishq",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Y-hS9XhKzW0",
+      "title": "Abida Parveen - Dhamal",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=XhYlHjXf3sA",
+      "title": "Shazia Khushk - Rubaru",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=4X5mYq9v1U0",
+      "title": "Reshma - Hai O Rabba",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Q8lV9z2_cZ4",
+      "title": "Abida Parveen - Ali Maula",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=2Tz8bK7Vb_o",
+      "title": "Sanam Marvi (Early) - Haq Ali",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=R9K0cRj2b00",
+      "title": "Abida Parveen - Mast Qalandar",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=R5u2w8z7Y34",
+      "title": "Allan Faqir - Classic",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=e9Z4X0l9Dk0",
+      "title": "Reshma - Akhiyan Nu Rehn De",
+      "station": "TAPE A"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=8V43Xv9165Q",
+      "title": "Allan Faqir - Humma Humma",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=b0n-N8_6ZfA",
+      "title": "Shazia Khushk - Balle Balle",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=R5u2w8z7Y34",
+      "title": "Shazia Khushk - Dana Pe Dana",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=F3zWvGf41nQ",
+      "title": "Allan Faqir - Sufi Kalam",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=kYJmQk6Z5kU",
+      "title": "Traditional Sindhi Alghoza",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=FjS6oQ8qE8k",
+      "title": "Allan Faqir - Ghazal",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=48M34z7XQ9U",
+      "title": "Shazia Khushk - Medley",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=kS6cR7Z6R7w",
+      "title": "Sindhi Lullaby (Folk)",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=zR6aU9Pj32Y",
+      "title": "Allan Faqir - Deep Folk",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=ZfR6Qk5mO4c",
+      "title": "Traditional Sindhi Instrumental",
+      "station": "TAPE B"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=P_M6kP8r2Zc",
+      "title": "Farid Ayaz - Kangna",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=S3Qk0wM0h_8",
+      "title": "Farid Ayaz - Mori Bangri",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=2TzT4_y_5R8",
+      "title": "Abida Parveen - Yaar Di",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=lUuR9l6m7A4",
+      "title": "Abida Parveen - Tu Kuja",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=jU0M_J0oDk8",
+      "title": "Farid Ayaz - Qawwali",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=wX2g8iU6mR0",
+      "title": "Abida Parveen - Ghazal",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=93P0eYkO22w",
+      "title": "Saif Samejo (Early)",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Yp94pBv07_8",
+      "title": "Farid Ayaz - Sufi",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=yW63P69H9mY",
+      "title": "Abida Parveen - Sufi Hits",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=H7B5944dZf4",
+      "title": "Farid Ayaz - Tarana",
+      "station": "FM 100"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=n9H2U_5qQ-A",
+      "title": "Shafqat Amanat Ali - Mitwa",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=O1hR5A_rO3Y",
+      "title": "Fuzon - Deewane",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=M5L_s5G5gM4",
+      "title": "Jal - Woh Lamhey",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=7hY74eN184A",
+      "title": "Roxen - Tera Mera Rishta",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=Y4G_hCqA-3w",
+      "title": "Entity Paradigm - Kahan Hai",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=R9K0cRj2b00",
+      "title": "Fuzon - Khamaj",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=U0rTf1c8sU4",
+      "title": "Strings - Koi Aanay Wala Hai",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=H6S_n34_eXg",
+      "title": "Call - Laree Choote",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=1F_4-tL8_6U",
+      "title": "Jal - Sajni",
+      "station": "FM 89"
+    },
+    {
+      "id": "https://www.youtube.com/watch?v=O129z81nO_U",
+      "title": "Shafqat Amanat Ali - Aankhon",
+      "station": "FM 89"
+    }
+  ]
+}
