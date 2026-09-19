@@ -3,14 +3,11 @@
 import { VibeSwitcher } from '@/components/VibeSwitcher';
 import { LiveCounter } from '@/components/LiveCounter';
 import { BackgroundManager } from '@/components/BackgroundManager';
-import { AmbientToggles } from '@/components/AmbientToggles';
 import { DisruptiveHorn } from '@/components/DisruptiveHorn';
 import { MusicPlayer } from '@/components/MusicPlayer';
 import { GeolocationOnboarding } from '@/components/GeolocationOnboarding';
 
 import { useEffect } from 'react';
-
-import { AmbientAudio } from '@/components/AmbientAudio';
 
 export default function Home() {
   // God-tier fix: Globally patch the native play() method to silently swallow all AbortErrors at the source.
@@ -44,7 +41,6 @@ export default function Home() {
 
       {/* Music and Audio Management */}
       <MusicPlayer />
-      <AmbientAudio />
 
       {/* 3. Vibe Switcher (Left Side) */}
       <div className="absolute top-12 left-6 z-10 flex flex-col space-y-4 shadow-2xl">
@@ -61,8 +57,6 @@ export default function Home() {
 
       {/* Right Side UI (Toggles and Horn) */}
       <div className="absolute top-12 right-6 z-10 flex flex-col items-end space-y-6">
-        {/* 5. Ambient Sound Toggles */}
-        <AmbientToggles />
         
         {/* 6. The Disruptive Horn Button */}
         <DisruptiveHorn />

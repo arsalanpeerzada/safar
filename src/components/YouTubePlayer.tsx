@@ -132,5 +132,20 @@ export const YouTubePlayer = forwardRef<YouTubePlayerRef, YouTubePlayerProps>(({
     playerRef.current.setVolume?.(volume * 100);
   }, [volume, isReady]);
 
-  return <div ref={containerRef} className="w-full h-full pointer-events-none" />;
+  // Cleanup on unmount
+  useEffect(() => {
+    return () => {
+      if (playerRef.current?.destroy) {
+        playerRef.current.destroy();
+      }
+    };
+  }, []);
+
+  // Wrap in a parent div to prevent React "removeChild" errors 
+  // when YouTube API replaces the inner div with an iframe.
+  return (
+    <div className="w-full h-full pointer-events-none">
+      <div ref={containerRef} />
+    </div>
+  );
 });

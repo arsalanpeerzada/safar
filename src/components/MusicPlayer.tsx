@@ -32,7 +32,9 @@ export function MusicPlayer() {
   const [played, setPlayed] = useState(0); 
   const [duration, setDuration] = useState(0);
   const [seeking, setSeeking] = useState(false);
+  const [trackError, setTrackError] = useState(false);
   const playerRef = useRef<YouTubePlayerRef>(null);
+  const audioRef = useRef<HTMLAudioElement>(null);
 
   const currentTracks = TRACKLISTS[currentVibe] || [];
   const currentTrack = currentTracks[trackIndex];
@@ -55,11 +57,22 @@ export function MusicPlayer() {
   }, [currentVibe, hasStarted]);
 
   useEffect(() => {
+    setTrackError(false);
     if (!hasStarted || currentTracks.length === 0) return;
     if (currentTrack && !isPlayable) {
       setTrackIndex((prev) => (prev + 1) % currentTracks.length);
     }
   }, [trackIndex, currentVibe, hasStarted, currentTracks]);
+
+  useEffect(() => {
+    if (audioRef.current) {
+      if (isPlaying) {
+        audioRef.current.play().catch(() => {});
+      } else {
+        audioRef.current.pause();
+      }
+    }
+  }, [isPlaying, trackError]);
 
   const handleNextTrack = () => {
     if (currentTracks.length === 0) return;
@@ -69,6 +82,10 @@ export function MusicPlayer() {
   const handlePrevTrack = () => {
     if (currentTracks.length === 0) return;
     setTrackIndex((prev) => (prev - 1 + currentTracks.length) % currentTracks.length);
+  };
+
+  const handleError = () => {
+    setTrackError(true);
   };
 
   const handleProgress = (state: { playedSeconds: number, duration: number }) => {
@@ -84,7 +101,7 @@ export function MusicPlayer() {
 
   const handleSeekMouseUp = (e: React.MouseEvent<HTMLInputElement>) => {
     setSeeking(false);
-    if (playerRef.current && playerRef.current.getDuration) {
+    if (!trackError && playerRef.current && playerRef.current.getDuration) {
       const dur = playerRef.current.getDuration();
       playerRef.current.seekTo(parseFloat((e.target as HTMLInputElement).value) * dur);
     }
@@ -94,20 +111,28 @@ export function MusicPlayer() {
 
   // Split title for sleeker display (e.g. "Artist - Song" -> Artist, Song)
   const artistName = currentTrack?.title?.split('-')[0]?.trim() || currentTrack?.station || 'Unknown Artist';
-  const songName = currentTrack?.title?.split('-')[1]?.trim() || currentTrack?.title || 'Selecting Frequency...';
+  const songName = trackError ? 'Falling back to Radio...' : (currentTrack?.title?.split('-')[1]?.trim() || currentTrack?.title || 'Selecting Frequency...');
 
   return (
     <>
       <div className="fixed inset-0 z-[-50] opacity-0 pointer-events-none">
-        {videoId && (
+        {videoId && !trackError && (
           <YouTubePlayer
             ref={playerRef}
             videoId={videoId}
             playing={isPlaying && hasStarted}
             volume={isHornBlowing ? 0.2 : 1}
             onEnded={handleNextTrack}
-            onError={handleNextTrack}
+            onError={handleError}
             onProgress={handleProgress}
+          />
+        )}
+        {trackError && (
+          <audio 
+            ref={audioRef}
+            src={`/fallback-audio/preset-${(trackIndex % 4) + 1}.mp3`} 
+            loop 
+            muted={false}
           />
         )}
       </div>
